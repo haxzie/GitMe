@@ -1,4 +1,4 @@
 ---
 username: EmmanuelBoM
-fullname: Emmanuel Bolteada
+fullname: Emmanuel Bolteada Manzo
 ---
