@@ -1,0 +1,1895 @@
+[33mcommit e24085f86b20bd2d4775943e79394a31450139e8[m[33m ([m[1;36mHEAD -> [m[1;32mUbaCheQuas[m[33m)[m
+Author: Uba Okenwa Onwuchekwa <23677836@stu.mmu.ac.uk>
+Date:   Mon Feb 5 14:52:48 2024 +0000
+
+    A trial message
+
+[33mcommit b13158ce0f1cf5e8d5d7c24373960286851a9a6b[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 00526a4 5d4e3da
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Apr 8 10:22:47 2023 +0530
+
+    Merge pull request #47 from AdithyanKP/adithyan-profile
+    
+    added my md file
+
+[33mcommit 5d4e3dad5db5c5bc2cf43c88d0ae72ece6e38539[m
+Author: Adithyan k P <adithyankp777@gmail.com>
+Date:   Sun May 22 13:10:58 2022 +0530
+
+    added my md file
+
+[33mcommit 00526a47e76bfa029a5e49804a0d86b80e8ac7aa[m
+Merge: 83aafa2 4788e32
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:48:13 2021 +0530
+
+    Merge pull request #45 from haxzie/dev
+    
+    Dev
+
+[33mcommit 4788e32c1376d732a30519561401cafb2794de15[m
+Merge: f69cc38 1589952
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:47:34 2021 +0530
+
+    Merge pull request #33 from EmmanuelBoM/EmmanuelBoM
+    
+    Added .md custom File
+
+[33mcommit f69cc3818d78113787a81af682214a5a9adc3eba[m
+Merge: 5b45852 1bdaaf8
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:45:42 2021 +0530
+
+    Merge pull request #35 from Gil-57/Gil-57
+    
+    Adding md file
+
+[33mcommit 5b458522be1485b9d6b88232092160ef910bf5a9[m
+Merge: 7d2c15b c821a1a
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:45:17 2021 +0530
+
+    Merge pull request #36 from DianaA96/DianaA96-profile
+    
+    Added myself to the profiles
+
+[33mcommit 7d2c15bbd76e065f4c3195856684ffb0aff290f7[m
+Merge: d8ae491 72bb2b2
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:44:49 2021 +0530
+
+    Merge pull request #37 from EduLeg/EduLeg-profile
+    
+    Mi md commit change
+
+[33mcommit d8ae491eb40544c6786cbb6e2e4f499d7f755b5c[m
+Merge: a441398 596e36a
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:44:28 2021 +0530
+
+    Merge pull request #38 from DonKatsun/DonKatsun-profile
+    
+    YOUR_COMMIT_MESSAGE
+
+[33mcommit a44139864173282874046b8f248fc9577291ad6f[m
+Merge: dded21d d12c240
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:44:05 2021 +0530
+
+    Merge pull request #39 from yvone/yvone-profile
+    
+    Adds a new profile
+
+[33mcommit 83aafa28a2532c4ec5b8d3826b20cb5fa58b3bf6[m
+Merge: 953d66d baba1df
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:43:21 2021 +0530
+
+    Merge pull request #41 from ErhartFabian/Erhart-profile
+    
+    FirstCommit
+
+[33mcommit baba1df4c0a2b847d7479bff2cc6a1f13038085f[m
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:43:08 2021 +0530
+
+    Update Erhart-profile.md
+
+[33mcommit dded21df0f3eaf6c4f7f263cf714ea5511fdac05[m
+Merge: 9a88c9f 5823188
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:42:40 2021 +0530
+
+    Merge pull request #42 from Efren73/practica
+    
+    My practice
+
+[33mcommit 9a88c9f2d97aba1c6fc7165bca7139d5d64d2393[m
+Merge: cda4f04 31ae4f6
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:42:19 2021 +0530
+
+    Merge pull request #43 from Carlosrc31/CarlosBranch
+    
+    FirstCommit
+
+[33mcommit cda4f048cc4cc62d05bc653a4a6f203061ae3712[m
+Merge: 953d66d 2f8201b
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:41:56 2021 +0530
+
+    Merge pull request #44 from HeronSamperio/HeronSamperio
+    
+    New commit
+
+[33mcommit 31ae4f6cb1608f0621aaca1fdd7aaa0403a626c4[m
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Sat Feb 20 12:39:48 2021 +0530
+
+    Update Carlos.md
+
+[33mcommit 2f8201b1d79113893a8fc83cf02a668dfb44ca5f[m
+Author: HeronSamperio <joseheronsamperio@gmail.com>
+Date:   Fri Feb 19 18:11:15 2021 -0600
+
+    Mi comit
+
+[33mcommit 3ea1aacabc9b0fe41945f4dfba21d426828ee147[m
+Author: Carlosrc31 <charlie31rc@gmail.com>
+Date:   Fri Feb 19 18:05:08 2021 -0600
+
+    Nuevo Archivo
+
+[33mcommit 15899524c0a13fdc35f367ebff991f3a59341f41[m
+Author: Emmanuel Bolteada <a01276310@itesm.mx>
+Date:   Fri Feb 19 18:04:16 2021 -0600
+
+    Added custom .md File
+
+[33mcommit 5823188e8d1e1f2c79cb6821b3b22e596f3f8f08[m
+Author: Efren Aldana <A01276266@itesm.mx>
+Date:   Fri Feb 19 18:01:34 2021 -0600
+
+    Agregando mis datos
+
+[33mcommit c821a1a4e0b8bdfa0d41b335127743000ccfbb7f[m
+Author: Diana Aguirre <a01276380@itesm.mx>
+Date:   Fri Feb 19 18:01:33 2021 -0600
+
+    Added myself to the profiles
+
+[33mcommit 596e36aa668158f04d916fe26cb0447118ba22af[m
+Author: Don Katsun <a01276214@itesm.mx>
+Date:   Fri Feb 19 17:59:38 2021 -0600
+
+    YOUR_COMMIT_MESSAGE
+
+[33mcommit 1bdaaf86f24927c69c57a5afbc6354e36498b03a[m
+Author: Gil-57 <gilberto.medina.trejo@hotmail.com>
+Date:   Fri Feb 19 18:59:28 2021 -0500
+
+    Adding md file
+
+[33mcommit d12c240a173f708ed63e1aea77fe022591477743[m
+Author: Yvone Sanchez <yvone.sre@gmail.com>
+Date:   Fri Feb 19 17:58:44 2021 -0600
+
+    Adds a new profile
+
+[33mcommit 72bb2b2b2b3f1d940c61ce0664674159a7f719fc[m
+Author: EduLeg <edu.lego538@gmail.com>
+Date:   Fri Feb 19 17:58:33 2021 -0600
+
+    MI COMMIT
+
+[33mcommit 293f7357956213ae7519b637b825bb8abe056edf[m
+Author: ErhartFabian <63439046+ErhartFabian@users.noreply.github.com>
+Date:   Fri Feb 19 17:57:05 2021 -0600
+
+    FirstCommit
+
+[33mcommit 79cf4fd1464d0a6bd883463ca4fb9b6abad5cce7[m
+Author: Emmanuel Bolteada <a01276310@itesm.mx>
+Date:   Fri Feb 19 17:54:06 2021 -0600
+
+    Added .md custom File
+
+[33mcommit 953d66d91a8c3e84204506d49503d9feaabf2300[m
+Merge: 3cfd611 0851cfb
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Thu Oct 1 23:14:36 2020 +0530
+
+    Merge pull request #28 from redfedted/master
+    
+    Added profile
+
+[33mcommit 3cfd611e5ebe18b2b717b39649f87671f635a3b6[m
+Merge: d8708ba 60aaefa
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Thu Oct 1 23:14:01 2020 +0530
+
+    Merge pull request #32 from claudiojpaz/claudiojpaz-profile
+    
+    Add claudiojpaz profile
+
+[33mcommit d8708ba0a3471187041639cfa0f75af7c6f33189[m
+Author: haxzie <musthu.gm@gmail.com>
+Date:   Thu Oct 1 21:33:50 2020 +0530
+
+    Fix issues in files
+
+[33mcommit 60aaefa270454b37efb77689781b12282a82e775[m
+Author: Claudio J. Paz <claudiojpaz@gmail.com>
+Date:   Sat Sep 26 20:07:07 2020 -0300
+
+    Add claudiojpaz profile
+
+[33mcommit 406893f6b724e22e414e2a3f0e16955f28cd5365[m
+Merge: 5513ff6 c7bf033
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Tue Jun 16 10:13:23 2020 +0000
+
+    Merge pull request #31 from vishwaskamath/vishwas-profile
+    
+    Committed
+
+[33mcommit c7bf0330e9a797049ee36a15b43303c6125dd113[m
+Author: M Vishwas Kamath <vishwaskamath58@gmail.com>
+Date:   Tue Jun 16 15:40:45 2020 +0530
+
+    Comitted
+
+[33mcommit 0851cfbb1d9ffcb2aacaf72654ddcf744e2de823[m
+Merge: aeb626f c52df7a
+Author: NirmalGeorgeMathew <45124414+redfedted@users.noreply.github.com>
+Date:   Sat Mar 28 14:25:13 2020 +0530
+
+    Merge pull request #1 from redfedted/redfedted-profile
+    
+    YOUR_COMMIT_MESSAGE
+
+[33mcommit c52df7ad51eb3ce3aa069b718d7c4c09428343e2[m
+Author: swaaz <2000nirmalgm@gmail.com>
+Date:   Sat Mar 28 12:45:19 2020 +0530
+
+    YOUR_COMMIT_MESSAGE
+
+[33mcommit 5513ff665438972c8f96f0ae59619af8fbbec210[m
+Merge: 96ed4f8 b1c2475
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Tue Mar 10 03:06:34 2020 +0000
+
+    Merge pull request #26 from ekokratos/ekokratos-profile
+    
+    first commit
+
+[33mcommit b1c247554eab902da59e2ca34eee8f4e4350bc58[m
+Author: ekokratos <adithyams.adi@gmail.com>
+Date:   Tue Mar 10 08:34:03 2020 +0530
+
+    first commit
+
+[33mcommit 96ed4f8d24f3cd2b9c4f3d9c0235dadf15795481[m
+Merge: 95be3b5 363f98f
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Oct 31 11:13:31 2019 +0000
+
+    Merge pull request #24 from akhil20015/akhil20015-profile
+    
+    Added Profile
+
+[33mcommit 363f98f36c15803fba0339c196fd66d22aa27149[m
+Author: akhil20015 <akhilsaras2001@gmail.com>
+Date:   Thu Oct 31 16:41:18 2019 +0530
+
+    Added Profile
+
+[33mcommit 95be3b5a184bbe29b1cb06cc2860b298e2ad95d9[m
+Merge: 9b05432 e174b51
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Wed Oct 16 19:50:32 2019 +0530
+
+    Merge pull request #17 from haxzie/dependabot/npm_and_yarn/gatsby-1.9.279
+    
+    Bump gatsby from 1.9.278 to 1.9.279
+
+[33mcommit e174b5139d86fc44202d7af4774497cb45b6bde9[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 14:11:41 2019 +0000
+
+    Bump gatsby from 1.9.278 to 1.9.279
+    
+    Bumps [gatsby](https://github.com/gatsbyjs/gatsby) from 1.9.278 to 1.9.279.
+    - [Release notes](https://github.com/gatsbyjs/gatsby/releases)
+    - [Changelog](https://github.com/gatsbyjs/gatsby/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/gatsbyjs/gatsby/compare/gatsby@1.9.278...gatsby@1.9.279)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 9b0543214c8296cbce8496fc36b9f633c3c4dfac[m
+Merge: 6d57ee5 81b7216
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Wed Oct 16 19:39:02 2019 +0530
+
+    Merge pull request #14 from haxzie/dependabot/npm_and_yarn/lodash-es-4.17.15
+    
+    [Security] Bump lodash-es from 4.17.11 to 4.17.15
+
+[33mcommit 6d57ee5db457db4b861febc341f14c45496f5ddb[m
+Merge: 3142ab0 7c3336a
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Wed Oct 16 19:38:41 2019 +0530
+
+    Merge pull request #15 from haxzie/dependabot/npm_and_yarn/lodash.merge-4.6.2
+    
+    [Security] Bump lodash.merge from 4.6.1 to 4.6.2
+
+[33mcommit 3142ab0bc89f8fc03b1add826658b158bd362395[m
+Merge: 22fdc1d b81c0a5
+Author: Musthaq Ahamad <53584487+haxzie@users.noreply.github.com>
+Date:   Wed Oct 16 19:38:14 2019 +0530
+
+    Merge pull request #16 from haxzie/dependabot/npm_and_yarn/lodash.mergewith-4.6.2
+    
+    [Security] Bump lodash.mergewith from 4.6.1 to 4.6.2
+
+[33mcommit b81c0a5bd3e7b7af61f2ccff25abb243af5de82b[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 14:07:45 2019 +0000
+
+    [Security] Bump lodash.mergewith from 4.6.1 to 4.6.2
+    
+    Bumps [lodash.mergewith](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2. **This update includes a security fix.**
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 7c3336aa0026b68760707a1ece838df14dc43894[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 14:06:58 2019 +0000
+
+    [Security] Bump lodash.merge from 4.6.1 to 4.6.2
+    
+    Bumps [lodash.merge](https://github.com/lodash/lodash) from 4.6.1 to 4.6.2. **This update includes a security fix.**
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/commits)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 81b7216a70b3652ea435e3c09eb42935ece80be7[m
+Author: dependabot-preview[bot] <27856297+dependabot-preview[bot]@users.noreply.github.com>
+Date:   Wed Oct 16 14:06:15 2019 +0000
+
+    [Security] Bump lodash-es from 4.17.11 to 4.17.15
+    
+    Bumps [lodash-es](https://github.com/lodash/lodash) from 4.17.11 to 4.17.15. **This update includes a security fix.**
+    - [Release notes](https://github.com/lodash/lodash/releases)
+    - [Commits](https://github.com/lodash/lodash/compare/4.17.11...4.17.15)
+    
+    Signed-off-by: dependabot-preview[bot] <support@dependabot.com>
+
+[33mcommit 22fdc1d4631a13b0dc758dbd95f2d848c92af8ab[m
+Merge: 216d28f 2dc1108
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sun Oct 13 15:28:36 2019 +0000
+
+    Merge pull request #13 from janstylewis/gitme
+    
+    initial commit
+
+[33mcommit 2dc1108d4252b7236116f743763d79bb4e0cbe04[m
+Author: Jansty <janstylewis.me18@sahyadri.edu.in>
+Date:   Sun Oct 13 20:56:23 2019 +0530
+
+    initial commit
+
+[33mcommit 216d28f0a4786fa75e51e36151f5b7cc33a7cad5[m
+Merge: ab14958 d38b016
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 18:08:44 2019 +0000
+
+    Merge pull request #12 from samarthyadav1/samarthyadav1-profile
+    
+    Samarthyadav1 profile
+
+[33mcommit d38b016a9eda4d535a2da3e729fd50a2d776fed7[m
+Author: [samarthyadav1] <[yashyadav94605@gmail.com]>
+Date:   Sat Oct 12 23:37:26 2019 +0530
+
+    Profile Added
+
+[33mcommit ab14958b6a0cedfa2ddefbeed42ad88cc04ae395[m
+Merge: f7748c9 2b1ea53
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 17:26:59 2019 +0000
+
+    Merge pull request #11 from SwasthikJP/SwasthikJP-profile
+    
+    Added Profile
+
+[33mcommit 2b1ea536241046c810c2da501d79f5e25f38cfdc[m
+Author: Swasthikjp <swasthikjp@gmail.com>
+Date:   Sat Oct 12 22:55:59 2019 +0530
+
+    Added Profile
+
+[33mcommit f7748c989bf52b62b3c0f44fc172c4ba308d67be[m
+Merge: 4a43531 b1d4848
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 17:06:19 2019 +0000
+
+    Merge pull request #10 from jaswanttiwari/jaswanttiwari-profile
+    
+    Profile Added
+
+[33mcommit b1d4848293a237fe94fa8b7eda3a6e3b5ee3cb01[m
+Author: jaswanttiwari <jaswanttiwari789@gmail.com>
+Date:   Sat Oct 12 22:34:27 2019 +0530
+
+    Profile Added
+
+[33mcommit 4a43531f03d1dacc00843b7b981fd1cfa58dc186[m
+Merge: 81ba3c0 59cefa9
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 16:45:17 2019 +0000
+
+    Merge pull request #9 from sriram160401/sriram160401-profile
+    
+    Sriram160401 profile
+
+[33mcommit 81ba3c0546dbbec87b38caa6c54da50f439307a2[m
+Merge: e39900f 66562e8
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 16:16:25 2019 +0000
+
+    Merge pull request #8 from Tonysscrank/Tonysscrank-profile
+    
+    Tonysscrank profile
+
+[33mcommit 66562e8a8d3baa88779bf64ba6bb7734c8ca5eca[m
+Author: Tonysscrank <saikatbiswasnendu@gmail.com>
+Date:   Sat Oct 12 21:45:03 2019 +0530
+
+    Added Profile
+
+[33mcommit 59cefa9e387250c620d2c52faf7aa16ee39330ea[m
+Author: sriram160401 <sriramshenoy01@gmail.com>
+Date:   Sat Oct 12 21:28:45 2019 +0530
+
+    added profile
+
+[33mcommit b6b235aa178feaf65ea2b73fed32dfccbe6a62cc[m
+Author: sriram160401 <sriramshenoy01@gmail.com>
+Date:   Sat Oct 12 21:15:16 2019 +0530
+
+    Added profile
+
+[33mcommit faf3528749ac42e84fdc3eb97ec061970ff1942e[m
+Author: Tonysscrank <saikatbiswasnendu@gmail.com>
+Date:   Sat Oct 12 19:47:48 2019 +0530
+
+    Added Profile
+
+[33mcommit 2a864f7ce07fab736d10d2fbae5f8c622c5eb4b8[m
+Author: samarthyadav1 <yashyadav94605@gmail.com>
+Date:   Sat Oct 12 19:45:24 2019 +0530
+
+     i have added an account
+
+[33mcommit e39900fc31076fbcf83964b01a77d2f5acf5534a[m
+Merge: 8a23611 5277194
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 14:04:02 2019 +0000
+
+    Merge pull request #5 from alpha-oss/alpha-oss-profile
+    
+    Added Profile
+
+[33mcommit 5277194785465aee3c5caeaf9e1bba53990a6291[m
+Author: alpha-oss <monish.shetty770@gmail.com>
+Date:   Sat Oct 12 19:31:32 2019 +0530
+
+    Added Profile
+
+[33mcommit 8a236118ac5bca402e9708486b480931d8df32a8[m
+Merge: 3f0587a dc6be2c
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Sat Oct 12 13:39:46 2019 +0000
+
+    Merge pull request #4 from ajeetkumar2321/ajeetkumar2321-profile
+    
+    Added Profile
+
+[33mcommit dc6be2cc8fa97fb7dc24ed3e3736d55a743b6958[m
+Author: ajeetkumar2321 <ajeetkumarshop2321@gmail.com>
+Date:   Sat Oct 12 18:56:43 2019 +0530
+
+    Added Profile
+
+[33mcommit 3f0587ab73468100a76d2071f9a61eb1d34b34fa[m
+Merge: aeb626f eebd9e2
+Author: gitme-assist[bot] <45338762+gitme-assist[bot]@users.noreply.github.com>
+Date:   Fri Oct 11 19:22:01 2019 +0000
+
+    Merge pull request #2 from shivamjaiswal64/shivamjaiswal64-profile
+    
+    Name added in .md file
+
+[33mcommit eebd9e2523e6190832b7145551a7e99838c9a151[m
+Author: SHIVAM JAISWAL <shivamjaiswal64@gmail.com>
+Date:   Sat Oct 12 00:48:02 2019 +0530
+
+    Name added in .md file
+
+[33mcommit aeb626fbed5e1d84a47f1d1736401189cc274186[m
+Merge: 8257c63 407008f
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Tue Feb 19 09:42:15 2019 +0000
+
+    Merge pull request #91 from ambx/Hiba
+    
+    Hiba
+
+[33mcommit 407008f2cfa3844a21f3cfcd69ca440fecea88b9[m
+Author: ambx <hiba.hf123@gmail.com>
+Date:   Tue Feb 19 10:38:51 2019 +0100
+
+    Hiba
+
+[33mcommit 8257c6316c23477a070d19064e310f2d8b18ee5a[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Feb 9 09:28:12 2019 +0530
+
+    Update README.md
+
+[33mcommit a26ba4ab9b4576dbde38f85d4b5f52d89034957a[m
+Merge: 6a035c3 b7325ff
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 27 16:05:18 2018 +0000
+
+    Merge pull request #90 from RachithaRai/RachithaRai
+    
+    justprac
+
+[33mcommit b7325ff60b1dfa9feb1efc33d6503dad528a9fd1[m
+Author: RachitrhaRai <rachitharai3016@gmail.com>
+Date:   Thu Dec 27 21:21:52 2018 +0530
+
+    justprac
+
+[33mcommit 6a035c3bd941f1ecb2eb8a55a94a7cc5953ab871[m
+Merge: 0d2e7b6 90593b6
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Dec 25 10:28:08 2018 +0530
+
+    Merge pull request #89 from haxzie/haxzie-patch-2
+    
+    Update Afroz.md
+
+[33mcommit 0d2e7b669595ef6b72886fc720d379270d6d55b3[m
+Merge: e7b1a06 c488e3a
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Tue Dec 25 04:57:03 2018 +0000
+
+    Merge pull request #88 from kittykat99/patch-1
+    
+    Create kittykat99.md
+
+[33mcommit c488e3a4dc7c70173560d8a90dddd2cfba3fae6b[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 12:44:09 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit 90593b611e85ee6932a0963ee572e2f6df56ff1f[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 12:29:24 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit f0b397f506b1f7e9dc86e0d23f92b0387ab7a97b[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 12:21:49 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit 35eaa1ec6d2aaa068214a3d2c9ea56bf6b889c19[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 12:17:18 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit 2b3147068ebbafc06f82e8f609855700cd7ab179[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 12:14:56 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit 1d67142bcb26750985d1e0d2b5d9f62402e84bd8[m
+Author: kittykat99 <36361524+kittykat99@users.noreply.github.com>
+Date:   Sun Dec 23 11:53:00 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit b1a23f93f448b3f65657f3174c99e0c5ad29b223[m
+Author: kittykat99 <36361524+kittykat99@users.noreply.github.com>
+Date:   Sun Dec 23 11:39:40 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit a68852120dbc508e672475300f01ff2b8f2c6e45[m
+Author: kittykat99 <36361524+kittykat99@users.noreply.github.com>
+Date:   Sun Dec 23 11:33:25 2018 +0530
+
+    Update kittykat99.md
+
+[33mcommit a7837fefbfbbed9b5d8cbfeb8a952102b2f42d1c[m
+Author: kittykat99 <36361524+kittykat99@users.noreply.github.com>
+Date:   Sun Dec 23 10:59:09 2018 +0530
+
+    Create kittykat99.md
+
+[33mcommit e7b1a06950ed1592fc4065af3de9754e8f76b159[m
+Merge: 2edb2f6 28f740e
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 10:56:39 2018 +0530
+
+    Merge pull request #87 from haxzie/haxzie-patch-1
+    
+    Update Afroz.md
+
+[33mcommit 28f740e2bb8529c0d85758835d938364aa14a56f[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Dec 23 10:54:52 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit 2edb2f6dd2cbc32c0ae9079805a1972e619124f2[m
+Merge: 3a99651 b10a433
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Dec 22 16:02:25 2018 +0530
+
+    Merge pull request #86 from RahulRao23/rahulrao23
+    
+    profile is ADDED
+
+[33mcommit b10a433260c3412fede8c7bdf5ff8b95e46c40ac[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Dec 22 16:00:21 2018 +0530
+
+    Update rahulrao23.md
+
+[33mcommit 55c69bf747bf00fe7cab9d4012aecd6bcca1fdf3[m
+Author: RahulRao23 <rahulrao7144@gmail.com>
+Date:   Sat Dec 22 01:23:25 2018 -0800
+
+    profile is ADDED
+
+[33mcommit 3a996517613c6544d45bcc03c5c56e4359515028[m
+Merge: 0145624 2c4c322
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 18:30:53 2018 +0000
+
+    Merge pull request #85 from haxzie/haxzie-patch-15
+    
+    Update haxzie.md
+
+[33mcommit 2c4c3227c16819eea8dc6bc04e70d211fd201af1[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 23:59:59 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 0145624e38e7d836eb665aed6c8ab3ab32210bfa[m
+Merge: 5d4e779 e37669c
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 18:22:33 2018 +0000
+
+    Merge pull request #84 from haxzie/haxzie-patch-14
+    
+    Update haxzie.md
+
+[33mcommit e37669c994d0a85e77d2d8cfc9cad06611bfb236[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 23:51:45 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 5d4e779244106286ce27a2795f997e971282fc35[m
+Merge: a7ad7c8 d0e8c17
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 18:19:57 2018 +0000
+
+    Merge pull request #83 from haxzie/haxzie-patch-13
+    
+    Update haxzie.md
+
+[33mcommit d0e8c17ac1a7379035223475dd4c0fb4285f78c9[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 23:48:53 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit a7ad7c8b681a7512adfe0ee17a401ee0ec859279[m
+Merge: f4c9b1e ac00146
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 18:16:36 2018 +0000
+
+    Merge pull request #82 from haxzie/haxzie-patch-12
+    
+    Update haxzie.md
+
+[33mcommit ac001468332c1a31d82ddcfa311b5199ba291672[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 23:45:43 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit f4c9b1eb415e58643cdf05054d48f57e7234b98a[m
+Merge: 5e2bcdd 15ed8d7
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 17:52:05 2018 +0000
+
+    Merge pull request #75 from haxzie/haxzie-patch-7
+    
+    Update haxzie.md
+
+[33mcommit 15ed8d79136a14ba5992dd0ec58cc742e0d78f2a[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 23:21:06 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 5e2bcddbf5bb86313844a38776be966d083aa050[m
+Merge: 224deae 73c0b4d
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Thu Dec 20 17:26:56 2018 +0000
+
+    Merge pull request #74 from haxzie/haxzie-patch-7
+    
+    Update haxzie.md
+
+[33mcommit 73c0b4d962e13678e01b7e4f00a77880a2e8dde2[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 22:56:21 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit a2b7130264f2614c72fba694574c821f62cf76d3[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 22:51:42 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 224deae3b03ef690b4eb23e5ab7f517fcfd6dbe1[m
+Merge: 836f1b4 102268f
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 22:50:43 2018 +0530
+
+    Merge pull request #73 from haxzie/haxzie-patch-6
+    
+    Update Afroz.md
+
+[33mcommit 102268f9065f8bff6f2145dc5b68c636b1663918[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 22:30:54 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit dce621bbe3b9f9f83b79b3b2e034b7551c28eca5[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Dec 20 22:28:09 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit 7744d099ebe749e749187142765fb4cee098c097[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Dec 19 20:07:10 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit c66733cdb9c4297032d46383dcb8ec9982b458b2[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Dec 19 20:01:17 2018 +0530
+
+    Update Afroz.md
+
+[33mcommit 836f1b4c69643ea2f4197a2a259d7ae37baa32c7[m
+Merge: d087d7a 3259c61
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Dec 15 15:07:05 2018 +0530
+
+    Merge pull request #72 from akhilesh27/akhilesh27
+    
+    profile is added
+
+[33mcommit 3259c61cf2235aa1ab05e2465cefdb1c4048b19e[m
+Author: akhilesh27 <ml.akhileshnaik@gmail.com>
+Date:   Sat Dec 15 14:47:03 2018 +0530
+
+    profile is added
+
+[33mcommit d087d7ad49300d9d112295f568d0a0aee36addad[m
+Merge: ce8849b c4004ab
+Author: gitme-assist[bot] <gitme-assist[bot]@users.noreply.github.com>
+Date:   Mon Dec 10 19:47:13 2018 +0000
+
+    Merge pull request #71 from haxzie/haxzie-patch-5
+    
+    TEST PR FINAL
+
+[33mcommit c4004abe631dc9d2f46c1ecff1dd6d9a62dc2996[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Dec 11 01:16:31 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 310b249225aee55a3dcaa2172e161eb0b8611cb5[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Dec 11 00:51:56 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit 57cf6b577579505ade3c61a74b992b9089e11cfa[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Dec 11 00:44:41 2018 +0530
+
+    Update haxzie.md
+
+[33mcommit c3b055edda7ddaa1091413e7f48e79c7e36f1f57[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Dec 11 00:43:01 2018 +0530
+
+    TEST PR FINAL
+
+[33mcommit ce8849bf684e2fab17e2149c23b59a2c47ce5ae0[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Dec 10 22:44:19 2018 +0530
+
+    Create sample.md
+
+[33mcommit 12e0b235e7580fe0deff420af1000d9f5e5812c8[m
+Merge: 3315e61 1a6a879
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Nov 11 13:52:52 2018 +0530
+
+    Merge pull request #67 from SebastianMansfieldBarry/SebastianMansfieldBarry-profile
+    
+    Adds SebastianMB profile to GitMe
+
+[33mcommit 1a6a8799a3e2ed5ad87ecaac675eaf81d96adf80[m
+Author: Sebastian <sebastian.mansfield@gmail.com>
+Date:   Sun Nov 11 03:08:05 2018 +0200
+
+    Adds SebastianMB profile to GitMe
+
+[33mcommit 3315e61a17ca41c95bf0d0e23f38016c5f78ae61[m
+Merge: 786fa69 c3563b4
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 29 14:49:45 2018 +0530
+
+    Merge pull request #64 from nishanb/nishanb-profile
+    
+    Nishanb profile
+
+[33mcommit 786fa69415647e193406bdf3e3ddc7c670235b7e[m
+Merge: 3c6ef3c 297903a
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 29 14:49:14 2018 +0530
+
+    Merge pull request #66 from haxzie/file-fixes
+    
+    Fixed file names
+
+[33mcommit 297903ac0b391db3cccb5fe37631340959d83b99[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 29 14:47:51 2018 +0530
+
+    Fixed file names
+
+[33mcommit c3563b48e0d15c7e317d2e771f0a86102bc72c1a[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 29 14:33:34 2018 +0530
+
+    Delete nishanb.md
+
+[33mcommit 499a4154b43ccf0231cd281fb550a027020240ed[m
+Author: Nishan B <nishanb7@gmail.com>
+Date:   Sun Oct 28 20:35:00 2018 +0530
+
+    moved file to profile
+
+[33mcommit 3c6ef3cc11159e4785cb4f14715bdaf54413fd34[m
+Merge: f54da79 073fd3c
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Oct 28 12:09:26 2018 +0530
+
+    Merge pull request #61 from nikhilamin073/nikhilamin073-profile
+    
+    Add nikhilamin073.md
+
+[33mcommit f54da791c1200bd34441be937f050a07f8d05704[m
+Merge: 5a0db90 e650ee8
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Oct 28 12:09:02 2018 +0530
+
+    Merge pull request #62 from nickassassin/nickassassin-profiles
+    
+    Nickassassin profiles
+
+[33mcommit e650ee80f7fb60b3a10848481f385387ec716d84[m
+Author: nickassassin <mohammedshahez@gmail.com>
+Date:   Sun Oct 28 01:07:29 2018 +0530
+
+    yo
+
+[33mcommit fdcce1b7c3fe324d45129111e798fd575f3f7f54[m
+Author: nickassassin <mohammedshahez@gmail.com>
+Date:   Sun Oct 28 01:04:27 2018 +0530
+
+    yo
+
+[33mcommit 073fd3c4d32fbff6e57a95af642ec9982e5db7e7[m
+Author: nikhilamin073 <aminnikhil073@gmail.com>
+Date:   Sat Oct 27 21:34:56 2018 +0530
+
+    Add nikhilamin073.md
+
+[33mcommit 5a0db90e36f28f55677068df85958333df1064fb[m
+Merge: 1a1ce20 6669472
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:30:39 2018 +0530
+
+    Merge pull request #59 from ahmed-saifulla/saif-profile
+    
+    my profile added
+
+[33mcommit 1a1ce2047c027683f71e7f740226cc66b9e06472[m
+Merge: bb8cf25 f65f23e
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:30:16 2018 +0530
+
+    Merge pull request #58 from AishaMJ/master
+    
+    Create AishaMJ.md
+
+[33mcommit f65f23e8771837dc437fa8c7eec0916a17e1c677[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:30:05 2018 +0530
+
+    Update AishaMJ.md
+
+[33mcommit bb8cf250a1048ba1ba45e7fe8597695d21223542[m
+Merge: a319c6b 8ba4c16
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:29:13 2018 +0530
+
+    Merge pull request #56 from abdulraouf9567/test
+    
+    This is me ABR
+
+[33mcommit a319c6b93c4fab66818b6135e216a8a96c854d67[m
+Merge: e716334 5895f90
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:28:50 2018 +0530
+
+    Merge pull request #55 from arkaanfastboi/patch-1
+    
+    Create arkaan.md
+
+[33mcommit 5895f9009853321e8a0f22b6f25f42894b662c12[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:28:38 2018 +0530
+
+    Update arkaan.md
+
+[33mcommit e7163348252557eece26f28fb9017ff60b3ffbc3[m
+Merge: efd0954 a85c02b
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:28:01 2018 +0530
+
+    Merge pull request #54 from aditikirannaik/patch-3
+    
+    Create aditikirannaik.md
+
+[33mcommit a85c02b14afad3df5b8c7cfe7a01ab6874dbb3f9[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:27:49 2018 +0530
+
+    Update aditikirannaik.md
+
+[33mcommit efd0954f6d0718da615ee5115a332617b9d50a1b[m
+Merge: 361510c 156cf93
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:27:17 2018 +0530
+
+    Merge pull request #53 from prajwalkonnur/patch-1
+    
+    Create prajwalkonnur.md
+
+[33mcommit 156cf93a4a959d0f914bea6e8ea8c4da29109972[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:27:08 2018 +0530
+
+    Update prajwalkonnur.md
+
+[33mcommit 361510c3cff415fd6543e9a43607256d3726bbcc[m
+Merge: 67e5a07 7168a4f
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:26:24 2018 +0530
+
+    Merge pull request #52 from rashadisrazzi/patch-1
+    
+    Create Rashadisrazzi.md
+
+[33mcommit 7168a4f11cebdb94415224bf52785851bd2bb32a[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:26:12 2018 +0530
+
+    Update Rashadisrazzi.md
+
+[33mcommit 67e5a070a9485e1743f3dcbcbe4824a475558d57[m
+Merge: ed4272c ed9ff0b
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:25:15 2018 +0530
+
+    Merge pull request #51 from Viz38/Viz38-profile
+    
+    New changes made
+
+[33mcommit ed4272cad3de8c46a5b973d32235587613d04d0e[m
+Merge: 4432bbc d2d89f3
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:24:53 2018 +0530
+
+    Merge pull request #50 from fouz-victor/patch-1
+    
+    Create fouz-victor.md
+
+[33mcommit 4432bbcf884fdb7482bffd9108c0b8f1412622f8[m
+Merge: 237cb0e f999c88
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:23:35 2018 +0530
+
+    Merge pull request #49 from rounak1288/Rounak_Saha-profile
+    
+    ROUNAK_SAHA
+
+[33mcommit f999c88b7fc96246d3fa74be6b1a6641cd100b66[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:23:23 2018 +0530
+
+    Update Rounak.md
+
+[33mcommit 237cb0ef0560309ec4441eee7d63ce78e1ef002d[m
+Merge: b5fe2d6 a517593
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:22:52 2018 +0530
+
+    Merge pull request #48 from haneenaatheeq/haneena
+    
+    add my name is haneena
+
+[33mcommit a517593197c7c2c46342fd56a732ab31b7d58cfe[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:22:41 2018 +0530
+
+    Update haneena.md
+
+[33mcommit b5fe2d62b2109c9238b86a6274188742cc5404eb[m
+Merge: ea466df 5f4fdc3
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 27 20:22:15 2018 +0530
+
+    Merge pull request #47 from Raksha128/raksha
+    
+    Added my name
+
+[33mcommit 666947249423f08965a201c8a5d1ad19fbdd3753[m
+Author: Ahmed Saifulla N S <ahsaifulla@gmail.com>
+Date:   Sat Oct 27 18:09:15 2018 +0530
+
+    fullname
+    
+    correcion
+
+[33mcommit f6cf3bd64c724fc777f416a36861aa506b5c477c[m
+Author: Ahmed Saifulla N S <ahsaifulla@gmail.com>
+Date:   Sat Oct 27 18:02:03 2018 +0530
+
+    my profile added
+
+[33mcommit 42ac1c701faab5375c5c2cb6837edcd240c7f2cc[m
+Author: Aisha MJ <44518230+AishaMJ@users.noreply.github.com>
+Date:   Sat Oct 27 16:16:30 2018 +0530
+
+    Create AishaMJ.md
+
+[33mcommit bfdcc163d0cfa61d6ff7f48b3bda5447caaed9f7[m
+Author: arkaanfastboi <40025976+arkaanfastboi@users.noreply.github.com>
+Date:   Sat Oct 27 16:15:31 2018 +0530
+
+    Create arkaan.md
+
+[33mcommit d92714a767a01208eb957723cfdd5f159e0cd5db[m
+Author: prajwalkonnur <44520950+prajwalkonnur@users.noreply.github.com>
+Date:   Sat Oct 27 16:14:33 2018 +0530
+
+    Create prajwalkonnur.md
+
+[33mcommit eaaedf0f5f1c62dc61cca58f61b0bafe7bafd8f1[m
+Author: aditikirannaik <aditinaik774@gmail.com>
+Date:   Sat Oct 27 16:14:01 2018 +0530
+
+    Create aditikirannaik.md
+
+[33mcommit 1dc81e2d8b569fde4719e7f8e1467b736a31ebd3[m
+Author: rashadisrazzi <rashadisrazzi@gmail.com>
+Date:   Sat Oct 27 16:13:41 2018 +0530
+
+    Create Rashadisrazzi.md
+
+[33mcommit d2d89f319111de8910277d651110555ab9d78235[m
+Author: fouz-victor <44229583+fouz-victor@users.noreply.github.com>
+Date:   Sat Oct 27 16:11:36 2018 +0530
+
+    Create fouz-victor.md
+
+[33mcommit 8ba4c163e518d515a5d9eaeefa9dc2b78994157b[m
+Author: abdulraouf9567 <raouf9567@yahoo.com>
+Date:   Sat Oct 27 03:39:17 2018 -0700
+
+    This is me ABR
+
+[33mcommit ed9ff0b763bbb9d4659d26a76dd563f48400ab1e[m
+Author: Viz38 <vishnub341@gmail.com>
+Date:   Sat Oct 27 16:07:54 2018 +0530
+
+    New changes made
+
+[33mcommit 5f4fdc3ba73e1f13036d2a9be512047b38d9e926[m
+Author: Raksha <rakshar314@gmail.com>
+Date:   Sat Oct 27 15:49:16 2018 +0530
+
+    Added my name
+
+[33mcommit 31e16c6431f24cbfd39cdd41b96af10c6f9b6284[m
+Author: Haneena <haneenaatheeq@gmail.com>
+Date:   Sat Oct 27 15:49:14 2018 +0530
+
+    add my name is haneena
+
+[33mcommit 6131c8a77e102f7ae6ff117b7aae6bdc2fa45d5d[m
+Author: ROUNAK <saharounak1998@gmail.com>
+Date:   Sat Oct 27 15:49:07 2018 +0530
+
+    ROUNAK_SAHA
+
+[33mcommit 0ba1f88b1cd0aa4f9a6734f1de07b07de36b54a2[m
+Author: Nishan B <nishanb7@gmail.com>
+Date:   Fri Oct 26 20:06:23 2018 +0530
+
+    ADD: nishan profile
+
+[33mcommit ea466dfbbf76d20649d1b3693c93dda711cd3e61[m
+Merge: 1f89fa5 738e70a
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 20 16:22:45 2018 +0530
+
+    Merge pull request #45 from akashdeepb/akashdeepb
+    
+    Added Akashdeep and added Setting up profile to Cheatsheet
+
+[33mcommit 738e70ab8ee6b6169d4768e8965e56fa89cfbc9e[m
+Author: akashdeepb <akashdeepb.cs17@sahyadri.edu.in>
+Date:   Sat Oct 20 00:09:04 2018 +0530
+
+    Added Akashdeep, added Setting up profile to Cheatsheet
+
+[33mcommit 1f89fa50ede13bbbc8648b8789aa9a53646971a6[m
+Merge: edb35ea 154c21e
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 17 12:00:19 2018 +0530
+
+    Merge pull request #44 from PrayagRajSingh/PrayagRajSingh
+    
+    Created PrayagRajSingh
+
+[33mcommit 154c21ea4c95e7c8b7bd2ee7a462774b8ec27b07[m
+Author: PrayagRajSingh <36323295+PrayagRajSingh@users.noreply.github.com>
+Date:   Wed Oct 17 09:35:55 2018 +0530
+
+    Create PrayagRajSingh
+
+[33mcommit edb35eabcf7ff105fc5e2500ee8d3c3f5dda2fdc[m
+Merge: a460fcb 8eb69c7
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 10 19:24:50 2018 +0530
+
+    Merge pull request #42 from brijeshsadariya/brijeshsadariya-profile
+    
+    Added my profile
+
+[33mcommit 8eb69c75eb22d89ec8f0b6e9c6d59f47a33e54b2[m
+Author: brijeshpatel <4sf15cs033@sahyadri.edu.in>
+Date:   Tue Oct 9 21:24:03 2018 +0530
+
+    Added my profile
+
+[33mcommit a460fcb76bcda5ffd67bf4366b20f7b82fbd6e5a[m
+Merge: 3a1c690 51e06c7
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Oct 7 22:55:50 2018 +0530
+
+    Merge pull request #40 from hm-bilal/master
+    
+    Added my profile details
+
+[33mcommit 3a1c6907b8e7b36b89b002dc3d0f0870ae62b638[m
+Merge: 3b1f65a dc6765f
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Oct 7 22:55:29 2018 +0530
+
+    Merge pull request #41 from efl7a/efl7a-profile
+    
+    added my profile
+
+[33mcommit dc6765f4658c1897b25659506dd4000db3af04f6[m
+Author: Heather Christman <efl7a@yahoo.de>
+Date:   Sun Oct 7 09:48:34 2018 -0400
+
+    added my profile
+
+[33mcommit 51e06c7e8a7b1d80d5ee418b314133dd6d4260d8[m
+Merge: 3b1f65a 7934d6a
+Author: hm-bilal <37923736+hm-bilal@users.noreply.github.com>
+Date:   Sun Oct 7 13:53:01 2018 +0530
+
+    Merge pull request #1 from hm-bilal/hm-bilal-Profile
+    
+    Added My Profile Details
+
+[33mcommit 7934d6a8de7134d98d94830e07ede4548c3f846c[m
+Author: hm-bilal <hmbilal.998@gmail.com>
+Date:   Sun Oct 7 13:46:13 2018 +0530
+
+    Added My Profile Details
+
+[33mcommit 3b1f65a54c63219ddd58492fe919f76f67881598[m
+Merge: 6e0d065 66a9c51
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 6 22:29:25 2018 +0530
+
+    Merge pull request #38 from alekangelov/alekangelov-profile
+    
+    Fixed the mobile multiline navbar overflow issue
+
+[33mcommit 66a9c51211e25d03ff56dd43538cafe3c395edd9[m
+Author: Alek Angelov <alek@pabau.com>
+Date:   Sat Oct 6 18:10:53 2018 +0200
+
+    Update src/layouts/index.css
+    
+    Updated the media query
+
+[33mcommit 6e0d0652e1ba33fadb75146da03f508d47422098[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 6 21:01:59 2018 +0530
+
+    Delete unwanted files
+
+[33mcommit c8b290ae553aea731fd5b285cc8dd802d230c2f8[m
+Author: Alek Angelov <alek@pabau.com>
+Date:   Sat Oct 6 14:37:32 2018 +0200
+
+    autobommit
+
+[33mcommit 7abde38c68dcadbf036b25a166ca16f842893d5b[m
+Author: Alek Angelov <alek@pabau.com>
+Date:   Sat Oct 6 14:34:28 2018 +0200
+
+    autobommit
+
+[33mcommit 6134c8c65cd2389084465423e68aa53a1a537796[m
+Author: Alek Angelov <alek@pabau.com>
+Date:   Sat Oct 6 14:31:01 2018 +0200
+
+    autobommit
+
+[33mcommit 29e83a0b68ace2d85b4250893f32ffff5046e40e[m
+Author: Alek Angelov <alek@pabau.com>
+Date:   Sat Oct 6 14:15:30 2018 +0200
+
+    Initial Commit
+
+[33mcommit 1559042c019abb31bd6eb8024f39fa73bbe6a4a6[m
+Merge: cacd08d a48a841
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Oct 6 17:32:22 2018 +0530
+
+    Merge pull request #36 from sanoofa/master
+    
+    created sanoofa.md
+
+[33mcommit a48a8410e5484165cb814345803f27a61bdb94ef[m
+Author: sanoofa <43716064+sanoofa@users.noreply.github.com>
+Date:   Sat Oct 6 14:23:45 2018 +0530
+
+    created sanoofa.md
+
+[33mcommit cacd08d8cfea92e25c80a7cfacd84c66ff45a64f[m
+Merge: b345434 2dbb3b8
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Oct 4 14:53:15 2018 +0530
+
+    Merge pull request #35 from jdemieville/jdemieville-cheatsheet
+    
+    Jdemieville cheatsheet
+
+[33mcommit 2dbb3b88e25ec03225f45b85435cc280ac228bfa[m
+Author: jdemieville <jenniferdemieville@gmail.com>
+Date:   Wed Oct 3 22:12:45 2018 -0500
+
+    page content added
+
+[33mcommit b345434202e8651c5b0c6b4f8ff7b7160207f039[m
+Merge: 7ee441b f370baf
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 3 22:54:40 2018 +0530
+
+    Merge pull request #34 from monisha16/monisha16
+    
+    created monisha16
+
+[33mcommit f370baf04b3614c56e716958e4bca429c9a90c52[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 3 22:53:22 2018 +0530
+
+    Rename monisha16 to monisha16.md
+
+[33mcommit abcdb1512b7a8302756cc294a5028ff8119c912a[m
+Author: monisha16 <monishatarkar1625@gmail.com>
+Date:   Wed Oct 3 22:07:06 2018 +0530
+
+    created monisha16
+
+[33mcommit 7ee441b10c6a2effc57be22de87891712b4ddd50[m
+Merge: 04c1cf5 a5dd227
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 3 09:17:58 2018 +0530
+
+    Merge pull request #32 from jenniferkaplannyc/card_styling
+    
+    Card styling
+
+[33mcommit 04c1cf5e12ca31396ce586055d185bcb939c4f9f[m
+Merge: f8de516 388012a
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 3 09:15:56 2018 +0530
+
+    Merge pull request #31 from jenniferkaplannyc/added-name
+    
+    added in profile
+
+[33mcommit f8de5161a9c8dd4606b4f8510c6431c3c792bbc6[m
+Merge: 8669276 1beaaa0
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Oct 3 09:14:15 2018 +0530
+
+    Merge pull request #33 from zwe-mun-htun/zwemunhtun-profile
+    
+    Update zwe_mun_htun.md
+
+[33mcommit 1beaaa070fd004396a289ecae53024b7ac841775[m
+Author: Zwe Mun Htun <37401199+zwe-mun-htun@users.noreply.github.com>
+Date:   Wed Oct 3 07:50:37 2018 +0630
+
+    Update zwe_mun_htun.md
+
+[33mcommit a5dd227d171a782d38100b3c0a8feef528dce057[m
+Author: Jennifer Kaplan <jenniferkaplan.nyc@gmail.com>
+Date:   Tue Oct 2 20:14:41 2018 -0400
+
+    ready to PR
+
+[33mcommit b69eeaa85899abdf88c302337e2773dd150299cc[m
+Author: Jennifer Kaplan <jenniferkaplan.nyc@gmail.com>
+Date:   Tue Oct 2 20:09:15 2018 -0400
+
+    improved how the cards look
+
+[33mcommit 31fffdd4db7327fe60507f53e1a85a19c7fb4e70[m
+Author: Jennifer Kaplan <jenniferkaplan.nyc@gmail.com>
+Date:   Tue Oct 2 20:00:42 2018 -0400
+
+    changed the box shadow color
+
+[33mcommit 91047113d342e1002da5337ee53a5c50f327d5ab[m
+Author: Jennifer Kaplan <jenniferkaplan.nyc@gmail.com>
+Date:   Tue Oct 2 19:45:19 2018 -0400
+
+    reordered media queries
+
+[33mcommit 388012a9020931af4c80907163f5889edb5e4c48[m
+Author: Jennifer Kaplan <jenniferkaplan.nyc@gmail.com>
+Date:   Tue Oct 2 19:34:12 2018 -0400
+
+    added in profile
+
+[33mcommit 8669276e0c0f074994fc5dbd21a74178d16632b1[m
+Merge: bd4c569 f70368d
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 21:13:44 2018 +0530
+
+    Merge pull request #30 from zwe-mun-htun/zwemunhtun-profile
+    
+    add profile
+
+[33mcommit f70368d5bbfe559c5587392fc5cbb53672dde12f[m
+Author: zwe-mun-htun <zwemunhtun@ucsy.edu.mm>
+Date:   Tue Oct 2 21:03:02 2018 +0630
+
+    add profile
+
+[33mcommit bd4c56995e617161b0822c2fa541a00b498e4bba[m
+Merge: 4577393 ffd2bbb
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 19:56:37 2018 +0530
+
+    Merge pull request #25 from miftahmfaris/miftahmfaris-profile
+    
+    Add miftahmfaris profile
+
+[33mcommit 457739307839bb2014d7f60c133a91b43fa3b955[m
+Merge: 5c6c9b6 d75d30c
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 19:55:40 2018 +0530
+
+    Merge pull request #28 from jehadmohamedz/jehadmohamedz-profile
+    
+    Jehad Profile Added
+
+[33mcommit d75d30cdd648bdb1c3dd93712125f0dc5eb9d91e[m
+Author: jehadmohamedz <jehadmohamedz@gmail.com>
+Date:   Tue Oct 2 19:09:39 2018 +0530
+
+    Jehad Profile Added
+
+[33mcommit ffd2bbb28c42cad81f67cdd95f9ee05975607431[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 17:19:44 2018 +0530
+
+    Delete package-lock.json
+
+[33mcommit 5c6c9b6ec47d5635fd66efc2dc330d136b5a36b2[m
+Merge: e270164 dc6d6b5
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 17:19:09 2018 +0530
+
+    Merge pull request #26 from Nila197/Nila197-profile
+    
+    Added Nishitha's Profile
+
+[33mcommit e27016473166154ad6d15b387498ed4a7a0f4e17[m
+Merge: 83b8cba 8850b0a
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 17:18:46 2018 +0530
+
+    Merge pull request #27 from chaman-k/chaman-profile
+    
+    Added chaman's profile
+
+[33mcommit 8850b0a2c4fdc576fbeb0c63f37668f99001ae07[m
+Author: chaman <chamansullia@gmail.com>
+Date:   Tue Oct 2 16:46:35 2018 +0530
+
+    Added chaman's profile
+
+[33mcommit 39d1246ce115bc8b1a189f2171eb709214a043bf[m
+Author: Miftah Faris <miftah@coderscolony.com>
+Date:   Tue Oct 2 17:41:26 2018 +0700
+
+    Add miftahmfaris profile
+
+[33mcommit 83b8cbaaf7b2d9b7038705df0e7c78b1971fd38b[m
+Merge: af81d64 d413227
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 12:04:23 2018 +0530
+
+    Merge pull request #23 from dheeraj-rn/dheeraj-rn-profile
+    
+    added profile dheeraj-rn
+
+[33mcommit af81d64839e6d56742fc5c65e0654b46745ff924[m
+Merge: 948228b 0d7671d
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 12:04:01 2018 +0530
+
+    Merge pull request #24 from Hitoshirenu/Hitoshirenu-profile
+    
+    Added Hitoshirenu profile
+
+[33mcommit 0d7671d1d8b46e686db8e3ec697a342036004da7[m
+Author: Hitoshirenu <abhiigatty@gmail.com>
+Date:   Tue Oct 2 11:21:57 2018 +0530
+
+    Added Hitoshirenu profile
+
+[33mcommit dc6d6b5adb93e2aa1fce6af020f96d4deba01a64[m
+Author: Nishitha <ananyapj2000@gmailco>
+Date:   Tue Oct 2 11:18:59 2018 +0530
+
+    Added Nishitha's Profile
+
+[33mcommit d41322741081b7ead0ffdbd4aa285513cfeb0adc[m
+Author: Dheeraj <dheer047@gmail.com>
+Date:   Tue Oct 2 10:08:06 2018 +0530
+
+    added profile dheeraj-rn
+
+[33mcommit 2a13ddec795b63b5967fe8f21f4c84bcf89c60b9[m
+Author: Jen <demievillecodes@gmail.com>
+Date:   Tue Oct 2 03:14:37 2018 +0000
+
+    addition of cheatsheet tab in backup and index, skeleton of cheatsheet page
+
+[33mcommit 948228b78caec06c7b3fdc00d18b2f78b83c5244[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 08:25:42 2018 +0530
+
+    Update README.md
+
+[33mcommit 30edfea908932d5384616cb437b67ed908ea82ac[m
+Merge: e3b2fbd 124a385
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 08:21:23 2018 +0530
+
+    Merge pull request #22 from haxzie/haxzie-patch-1
+    
+    Update README.md
+
+[33mcommit 124a385deeb26c47afc49fa4a9cbe92c62060d11[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 08:20:29 2018 +0530
+
+    Update README.md
+
+[33mcommit e3b2fbdde4b2f5a0c2d39dd30fb5f5d35b63bbc4[m
+Merge: 003ba9e 7cc7689
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 07:42:27 2018 +0530
+
+    Merge pull request #19 from DesmondANIMUS/DesmondANIMUS-profile
+    
+    added my name in profiles
+
+[33mcommit 003ba9eb82af0edb0c31dcfcb7830a440144f4c3[m
+Merge: b7b5813 cd39ea5
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Oct 2 07:42:01 2018 +0530
+
+    Merge pull request #20 from redraskal/master
+    
+    Create redraskal.md
+
+[33mcommit cd39ea55e00b092da9362d85773970055f06d9b1[m
+Author: Redraskal <redraskal@users.noreply.github.com>
+Date:   Mon Oct 1 15:28:36 2018 -0500
+
+    Create redraskal.md
+
+[33mcommit 7cc7689b899d8ea915f60f00cc2d264c25ac9540[m
+Author: Gaurav Gogia <gauravgogia@light.local>
+Date:   Tue Oct 2 01:20:18 2018 +0530
+
+    added my name in profiles
+
+[33mcommit b7b58136ea475f48a2f5c9cc520733b781762832[m
+Merge: 5d9c55c ade23df
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 1 22:30:42 2018 +0530
+
+    Merge pull request #18 from swaaz/swaaz-profile
+    
+    added first change
+
+[33mcommit 5d9c55cea4d082efe5669946c2e34b6795eb518e[m
+Merge: 0fcd43b 58c22fd
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 1 22:29:42 2018 +0530
+
+    Merge pull request #16 from Gladson9/Gladson9-profile
+    
+    added Gladson9 profile
+
+[33mcommit ade23dfc56c45bf63662a024d9bb9f0844514cbf[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 1 22:28:31 2018 +0530
+
+    Update swaaz.md
+
+[33mcommit 0fcd43b9131a0e21559d832e3f320fcc6667efe0[m
+Merge: 094b75f dd45393
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 1 22:25:52 2018 +0530
+
+    Merge pull request #17 from Nihalsuresh/Nihalsuresh-Profile
+    
+    Create Nihalsuresh.md
+
+[33mcommit 0cdb14c397b4e3b6daf1bf7a4153b15506c4bdad[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Oct 1 22:24:53 2018 +0530
+
+    Update swaaz.md
+
+[33mcommit 0c2a1c187313c4a3af231ba85258d30acf1470bf[m
+Author: swaaz <swaasthik.shetty07@gmail.com>
+Date:   Mon Oct 1 20:44:57 2018 +0530
+
+    added first change
+
+[33mcommit dd453933235768bd4668838654361e7276983fd9[m
+Author: Nihalsuresh <43715824+Nihalsuresh@users.noreply.github.com>
+Date:   Mon Oct 1 19:38:05 2018 +0530
+
+    Create Nihalsuresh.md
+
+[33mcommit 58c22fdd7c87d686687a7e80ecadbed684001202[m
+Author: Gladson9 <gladsondsouz77@gmail.com>
+Date:   Sun Sep 30 19:56:54 2018 +0530
+
+    added Gladson9 profile
+
+[33mcommit 094b75f753b07683f63c88b2b7307973a90355df[m
+Merge: cdc336e ba04262
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Aug 31 09:17:06 2018 +0530
+
+    Merge pull request #14 from Youngceaser/Youngceaser-profile
+    
+    added hari's profile
+
+[33mcommit ba042625d6a4b554d98144f60a6e9f6a6d6d70db[m
+Author: Youngceaser <1997hari@gmail.com>
+Date:   Fri Aug 31 09:12:11 2018 +0530
+
+    added hari's profile
+
+[33mcommit cdc336e7b42bcd43935132732e1c49b109d1d563[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Aug 3 11:43:16 2018 +0530
+
+    Added sitemap
+
+[33mcommit 28ba6b0023a6d812451b232c6d8cd7ba2d3eb386[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Jul 30 22:11:01 2018 +0530
+
+    Updated package.json
+
+[33mcommit 77bade56d6d53b3fac30acf6f3591a9969bd6d9d[m
+Merge: a0483fa 71f14da
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Jul 30 22:06:31 2018 +0530
+
+    Merge pull request #11 from shravan1998/master
+    
+    Added Shravan's Profile
+
+[33mcommit 71f14da76ee4e65c812d94ba2d5195d3f7b98661[m
+Author: shravan1998 <shrkum51@gmail.com>
+Date:   Mon Jul 30 21:55:25 2018 +0530
+
+    I've finished it
+
+[33mcommit a6e81f35a8f9fe85768a89c603d99316f35582fd[m
+Author: shravan1998 <shrkum51@gmail.com>
+Date:   Mon Jul 30 21:28:32 2018 +0530
+
+    Done
+
+[33mcommit a0483fa60003b298dcd2103ca72a52e7dda7a8af[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Jul 23 10:35:24 2018 +0530
+
+    Updated packages
+
+[33mcommit a2f0a344a2281d6ae3daad82506380ef63bb7455[m
+Merge: ced2cd0 0bb319a
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Wed Jul 11 09:56:32 2018 +0530
+
+    Merge pull request #9 from Kiittyka/Kiittyka-profile
+    
+    Added Krithika's profile
+
+[33mcommit 0bb319a9453dac69b05d3e1d2f3fb07fecc06983[m
+Author: Kiittyka <krithikaudupa@gmail.com>
+Date:   Wed Jul 11 09:01:38 2018 +0530
+
+    Added profile
+
+[33mcommit ced2cd07e174c49f70511964df8858a731146c33[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Jul 8 19:55:26 2018 +0530
+
+    Fixed path of jaison's profile
+
+[33mcommit 75f5bd390519d201dfbd4a81977d403fcd636f0b[m
+Merge: eed9ba2 a02f60c
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Jul 8 19:48:22 2018 +0530
+
+    Merge pull request #8 from jaison10/JAISON-profile
+    
+    YES! I JAISON COMMIT HERE
+
+[33mcommit a02f60c91948b4378a3cf7a3df654c8b730b3a4d[m
+Author: jaison10 <jaisonj1010@gmail.com>
+Date:   Sun Jul 8 16:06:58 2018 +0530
+
+    YES! I JAISON COMMIT HERE
+
+[33mcommit eed9ba223f8a9d4aff94e644b7f2c06626ede864[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Jul 3 11:55:34 2018 +0530
+
+    Updated shashank's profile
+
+[33mcommit eae5a7a28c03ebf4c8da611b93ddeb0c3f53add0[m
+Merge: e052b39 5dd11a4
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Tue Jul 3 11:54:17 2018 +0530
+
+    Merge branch 'shanky1199' of git://github.com/Shanky1199/GitMe into add-shanky
+
+[33mcommit 5dd11a439539defc325b423426ec0ff089456f10[m
+Author: Shanky1199 <36107693+Shanky1199@users.noreply.github.com>
+Date:   Tue Jul 3 10:14:20 2018 +0530
+
+    ITS AWESOME TO BE A PART OF THIS, THANK YOU
+
+[33mcommit e052b3914daa0152dd883eacc0675d51a61fc229[m
+Merge: b57b351 06dcf09
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Jul 2 20:30:20 2018 +0530
+
+    Merge pull request #6 from coderhawk999/coderhawk999-profile
+    
+    Added Afroz's profile
+
+[33mcommit 06dcf0959c8c16291dc2db860c167b36242976cc[m
+Author: coderhawk999 <afrozhussain356@gmail.com>
+Date:   Mon Jul 2 19:53:01 2018 +0530
+
+    my-first-commit
+
+[33mcommit b57b351a3d49dfb911866bb4c27cc094594c8b7b[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sun Jul 1 11:12:54 2018 +0530
+
+    Updated user avatar to display 200x200 images
+
+[33mcommit d810f432f1ed1a05af274d0c07da6682c9251a22[m
+Author: Nathaniel <nathanielmat2@gmail.com>
+Date:   Sat Jun 30 18:46:50 2018 +0530
+
+    Added instruction to cd into folder and fixed typo: YOUR_COMMIT_MEESSAGE
+
+[33mcommit beed198472f57118fcbf776a6686b5b9f3c2001d[m
+Author: Nathaniel <nathanielmat2@gmail.com>
+Date:   Sat Jun 30 18:15:52 2018 +0530
+
+    Added Nathaniel username and Name
+
+[33mcommit f5042a9f8e3a32a02902392a15e426411ddee231[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Jun 30 17:54:45 2018 +0530
+
+    Fixed css fles box centering bugs
+
+[33mcommit 29b44d13439137ccdbe3c0506b1f3b112bbba88b[m
+Merge: dbf4f20 d5af4eb
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Jun 30 17:02:22 2018 +0530
+
+    Merge pull request #4 from nchand/nchand
+    
+    Added Nikhil's profile
+
+[33mcommit d5af4eb50af92f8f77f547761dcc24be0ab0b617[m
+Author: Nikhil Chand <nikhilchabe@gmail.com>
+Date:   Sat Jun 30 15:59:48 2018 +0530
+
+    Added profile
+
+[33mcommit dbf4f2009ebb93eb142a2d8030ddbc9b2ae77742[m
+Author: Rumaan <rumaankalander@gmail.com>
+Date:   Fri Jun 29 23:25:36 2018 +0530
+
+    Fixed a lil typo
+
+[33mcommit 9cab5403f0de03de3341e657a2417e161b111601[m
+Author: Rumaan <rumaankalander@gmail.com>
+Date:   Fri Jun 29 23:13:23 2018 +0530
+
+    Testing this
+
+[33mcommit 38ae8b44447c7b11224ab82726c36b6f5a230e9a[m
+Merge: 1f94c2d 01f10a1
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 29 22:40:23 2018 +0530
+
+    Merge pull request #1 from haxzie/submission-page
+    
+    Added profile cards to submissions
+
+[33mcommit 01f10a1b3a72091bc18cfad9127a46c8eae6f2fb[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 29 22:35:35 2018 +0530
+
+    Added profile cards to submissions
+
+[33mcommit 1f94c2dd360c241699954d3f251f7c30bcf9b43d[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Mon Jun 25 23:45:54 2018 +0530
+
+    Added GraphQl queries for profiles
+
+[33mcommit 5654cec269f1598040f5db9eafd80b5d9579f6ba[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Sat Jun 23 09:05:26 2018 +0530
+
+    Added favicons
+
+[33mcommit 35f52fc8d0088f1cf48ae93706e7c92461d2dc64[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 12:25:33 2018 +0530
+
+    removed path prefix
+
+[33mcommit 995507a4cf245f66a776d3f582abef3715b16429[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 12:24:33 2018 +0530
+
+    added cname file
+
+[33mcommit ff82bab7b3363e258426e6ad068078e2d6aed34d[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 09:21:50 2018 +0530
+
+    Fixed netlify deploy on readme
+
+[33mcommit 5569dec93053d76a317950a31e762fea467c8b9b[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 09:18:23 2018 +0530
+
+    Fixed code snippet for remote push
+
+[33mcommit f42a86e22430f084bd10771f770b7311a780bc75[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 09:16:59 2018 +0530
+
+    Updated Readme
+
+[33mcommit 3a788f4a89fd26acdff99adaf8142bb3b83d2eab[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Fri Jun 22 08:50:10 2018 +0530
+
+    FIxed external links
+
+[33mcommit 22492cb564d82f248415f4a4ee68132738b8cdb3[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Jun 21 23:27:11 2018 +0530
+
+    First deploy
+
+[33mcommit 658c6b85019624ea7030d1f8934be793356c413a[m
+Author: Musthaq Ahamad <musthu.gm@gmail.com>
+Date:   Thu Jun 21 21:58:00 2018 +0530
+
+    Initial commit
